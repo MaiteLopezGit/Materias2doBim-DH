@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: crimson;
+}
+
+
+header div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+a{
+    padding-left: 20px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-left: 480px;
+   
+    border: solid 2px rgb(16, 15, 15);
+    text-align: center;
+    text-decoration:none;
+    color:rgb(16, 15, 15);
+    font-size: 300%;
+}

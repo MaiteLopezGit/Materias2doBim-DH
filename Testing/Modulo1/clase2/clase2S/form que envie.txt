@@ -1,0 +1,9 @@
+1.	Liste los 4 niveles de prueba vistos en clase. 
+2.	Realizar un cuadro comparativo entre los 4 niveles de prueba teniendo en cuenta los siguientes criterios de comparación: 
+-	Objetivos
+-	Base de prueba 
+-	Objeto de prueba
+-	Defectos y fallas características
+3.	Realizar un cuadro comparativo entre pruebas funcionales y no funcionales teniendo en cuenta el siguiente criterio de comparación: 
+-	Objetivo de cada prueba. 
+Referencia para realizar el forms
